@@ -126,6 +126,7 @@ def num_points_scored(name)
   end
 end
 
+def 
 def team_names
   hash = game_hash
   array = []
